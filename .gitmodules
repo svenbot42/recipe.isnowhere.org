@@ -1,3 +1,6 @@
-[submodule "theme"]
+[submodule "theme-clean-blog"]
 	path = theme-clean-blog
 	url = https://github.com/statiqdev/CleanBlog.git
+[submodule "theme-phantom"]
+	path = theme-phantom
+	url = https://github.com/AlexHedley/Phantom.git

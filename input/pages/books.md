@@ -1,4 +1,4 @@
-Title: My books page
+Title: Books
 ---
 # Hello Books!
 

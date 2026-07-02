@@ -10,6 +10,7 @@ namespace MySite
       await Bootstrapper
         .Factory
         .CreateWeb(args)
+        .AddThemePath("theme-phantom")
         .RunAsync();
   }
 }
